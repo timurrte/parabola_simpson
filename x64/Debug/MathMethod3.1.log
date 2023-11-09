@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\timur\source\repos\MathMethod3.1\main.cpp(28,12): warning C4101: 's1': unreferenced local variable
+C:\Users\timur\source\repos\MathMethod3.1\main.cpp(28,16): warning C4101: 's': unreferenced local variable
+  MathMethod3.1.vcxproj -> C:\Users\timur\source\repos\MathMethod3.1\x64\Debug\MathMethod3.1.exe
